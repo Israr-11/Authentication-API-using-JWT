@@ -41,6 +41,5 @@ const user_login = async (req, res) => {
 };
 
 module.exports = {
-  user_login
-}
-
+  user_login,
+};
