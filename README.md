@@ -19,8 +19,8 @@ The server will automatically reload as you make changes, and any lint errors wi
 
 ## Step 3: Testing in Postman
 
-Firstly, register yourself using the register endpoint and then login, if login is successfull it 
-will give you token that you have to place in authorization header to access the protected routes
+Firstly, register yourself using the registering endpoint and then login, if login is successful it 
+will give you a token that you have to place in the authorization header to access the protected routes
 
 ## `🚀 Note to Repo Visitors`
 If you find this repo useful, don't forget to show some love! Give the repository a star to support the project. 🌟
